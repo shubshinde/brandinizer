@@ -1,0 +1,71 @@
+.brandinizer-upload-wrap {
+
+	display: block;
+	width: 250px;
+	height: auto;
+	min-height: 141px;
+	border: 1px dashed rgba(0,0,0,0.1);
+	padding: 2px;
+	box-sizing: border-box;
+	position: relative;
+	z-index: 0;
+	margin-bottom: 60px;
+}
+
+.brandinizer-upload-wrap img {
+	max-width: 100%;
+}
+
+.brandinizer-upload-action {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: absolute;
+	top: 170px;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	z-index: 1.1;
+}
+
+.brandinizer_upload_image_button,.brandinizer_remove_image_button {
+
+	width: 40px;
+	height: 40px;
+	border-radius: 100% !important;
+	border: 0px;
+	outline: 0;
+	line-height: 1;
+	margin: 0px 5px;
+	transition: all 0.3s ease-in-out;
+	color: #fff;
+	cursor: pointer;
+}
+
+.brandinizer_upload_image_button {
+
+	background-color: rgba(67, 160, 71, .3);
+	color: rgba(67, 160, 71, 1);
+	border: 1px solid rgba(67, 160, 71, .4);
+}
+
+.brandinizer_remove_image_button {
+
+	background-color: rgba(239, 83, 80, .3);
+	color: rgba(239, 83, 80, 1);
+	border: 1px solid rgba(239, 83, 80, .4);
+}
+
+.brandinizer_upload_image_button:hover {
+
+	background-color: rgba(67, 160, 71, 1);
+	color: #fff;
+	border: 1px solid rgba(67, 160, 71, 1);
+}
+
+.brandinizer_remove_image_button:hover {
+
+	background-color: rgba(239, 83, 80, 1);
+	color: #fff;
+	border: 1px solid rgba(239, 83, 80, 1);
+}

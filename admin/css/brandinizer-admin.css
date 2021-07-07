@@ -1,0 +1,25 @@
+#myplugin_movie_dash_widget ul {
+    display: inline-block;
+    margin: 0;
+    width: 100%;
+}
+#myplugin_movie_dash_widget ul li {
+    display: block;
+    width: 50%;
+    float: left;
+}
+
+#brandinizer-logo{
+    width: 70px;
+    height: 70px;
+    /* object-fit: cover; */
+}
+
+.brandinizer-brand-logo{
+    box-shadow: 5px 5px 5px #ccc;
+    margin-bottom: 10px;
+}
+
+table th{
+    width: 13px !important;
+}
