@@ -5,7 +5,7 @@ Donate link: no need
 Requires at least: 5.0
 Tested up to: 5.7.2
 Requires PHP: 7.0
-Stable tag: trunk
+Stable tag: 1.0.0
 License: GPL V3.0
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
