@@ -5,7 +5,7 @@
  * Plugin Name:       Brandinizer - Custom Dashboard Branding
  * Plugin URI:        https://froosty.tech/
  * Description:       Add Custom Brand Info in wordpress backend.
- * Version:           0.0.1
+ * Version:           1.0.0
  * Author:            Shubham Shinde (froosty)
  * Author URI:        https://froosty.tech/about/
  * License:           GPL-2.0+
